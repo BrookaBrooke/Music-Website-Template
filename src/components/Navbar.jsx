@@ -28,7 +28,7 @@ const Navbar = () => {
     return (
       <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
         <div>
-          <h1 className="text-4xl font-Monomanica-One ml-2">DJ Epic
+          <h1 className="text-4xl font-Monomanica-One ml-2">Janny Chaos
           </h1>
         </div>
 
